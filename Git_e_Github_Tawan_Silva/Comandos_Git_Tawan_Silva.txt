@@ -1,0 +1,10 @@
+git init // inicia o repositório local
+git config --global user.name // configura username global do usuário github
+git config --global user.email // configura email global do usuário github
+git remote add origin https://github.com/algum-repositorio // adiciona repositorio remoto
+git add . // adiciona todos os arquivos da pasta
+git commit -m "Created github story" // cria e salva um pacote dos aquivos para
+git push origin Tawan_Silva //envia para o github 
+git branch Tawan_Silva // cria uma branch
+git branch -d Tawan-Silva // EstaTawan brunch -m excluir branch local
+git psuh origin --delete Tawan-Silva // Deletar branch remota
