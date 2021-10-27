@@ -1,0 +1,5 @@
+1 - O Git foi inicialmente projetado e desenvolvido por Linus Torvalds para o desenvolvimento do kernel Linux, mas foi adotado por muitos outros projetos.
+
+2 - Microsoft
+
+3 - Pode ser usado atraves de do proprio site do github ou software de computador
