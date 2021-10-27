@@ -1,0 +1,26 @@
+git clone -> clona um repositório remoto
+
+cd nome_pasta -> entra numa pasta acima
+
+cd .. sai da pasta, desce um nível
+
+touch nome_arquivo.abc -> cria um arquivo com extensão desejada
+
+mkdir nome_pasta -> cria uma pasta
+
+mv -> move arquivos ou renomeia-os
+
+git status -> verifica o status do repositório local
+
+git add . -> adiciona todos os arquivos novos/modificados para ser commitado
+
+git commit -m -> efetua o commit dos arquivos
+
+git push origin nome_branch -> sobe os arquivos para o repositório remoto
+
+git checkout nome_branch -> modifica a branch de trabalho
+
+git branch nome_branch -> cria uma branch
+
+=========================
+
