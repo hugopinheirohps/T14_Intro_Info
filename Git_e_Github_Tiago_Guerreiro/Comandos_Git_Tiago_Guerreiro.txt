@@ -1,0 +1,8 @@
+git init // inicia o repositório local
+git config --global user.name username // nome do usuário github
+git config --global user.email blablabla@gmail.com // email do github
+git remote add origin https://github.com/hugopinheirohps/T14_Intro_Info // repositório a ser alterado
+git add . // adiciona todos os arquivos da pasta
+git commit -m "Created github story" // oficializei as mudanças 
+git push origin master // envia pra master no github
+git branch Tiago_Guerreiro // cria uma branch
