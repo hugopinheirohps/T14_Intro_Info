@@ -1,0 +1,48 @@
+Resumo dos comandos úteis em Git no terminal:
+Criação e vinculação de repositório
+git init
+git config user.name “usuario”
+git config user.email “email@email.com”
+git remote add origin urlRepositorioRemoto // vincula a um repositório remoto
+git remote rm nomeRepositorioRemoto // desvincula do repositório remoto
+Configuração de commits
+git add . OU git add --all
+git add nomeArquivo
+git commit -m “mensagem”
+git commit --amend -m “novamensagem” // altera a mensagem de um commit a enviar
+git rm nomeArquivo // remove um arquivo do commit
+git rm -r nomePasta // remove uma pasta do commit
+Subida de alterações do local para o remoto
+git push origin mainOUmaster
+Baixa de versões/alterações do remoto para o local
+git clone urlRepositorioRemoto // clona um repositório remoto e já vincula um repositório local
+git pull origin mainOUmaster
+git fetch // obtém as atualizações, mas não edita a branch principal no repositório local
+
+Outros comandos
+git status
+git remote -v // exibe a url do repositório remoto ligado ao local
+git config --list // exibe as configurações atuais do Git
+git log // mostra o histórico de commits
+git log --nomeArquivo // mostra o histórico de um arquivo específico
+git log --author=usuario // mostra o histórico de um usuário específico
+git checkout --nomeArquivo // permite desfazer uma mudança local antes do arquivo ser adicionado ao espaço de trabalho temporário
+git reset HEAD nomeArquivo // permite desfazer uma mudança local depois do arquivo ser adicionado ao espaço de trabalho temporário
+git checkout nomeArquivo // permite mudar o diretório
+
+Comandos para manipulação de branchs
+git branch nomeBranch // cria uma nova branch
+git branch -M novoNome // altera o nome da linha principal (master ou main)
+git checkout nova_branch_nome // mudar para uma branch existente - Neste caso, o ponteiro HEAD principal está apontando para a branch nova_branch_nome.
+git checkout -b nova_branch_nome // crie uma nova branch e aponte para ela
+git checkout nomeBranch // sai da branch atual e volta para a branch principal nomeBranch
+git merge branchParaPuxar // resolve a união (merge) entre as branches - Para mesclar, você deve estar na branch que deve receber as alterações.
+git branch -d nova_branch_nome // apagando uma branch
+git branch // lista branches
+git branch -v // lista branches com informações dos últimos commits
+git branch --merged // lista branches que já estão unidas (merged) com a main
+git branch --no-merged // lista branches que não estão unidas (merged) com a main
+git pull origin nomeBranch // extrai arquivos de uma branch existente
+git push origin nova_branch_nome // cria uma branch remota com o mesmo nome
+git merge --abort ou git reset --merge // quando temos problema com a união (merge) e queremos desfazê-lo
+git reset HEAD // quando queremos voltar a um commit anterior.
