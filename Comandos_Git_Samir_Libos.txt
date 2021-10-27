@@ -1,0 +1,14 @@
+git init // cria um repositório
+git config --global user.name nomeUsuario // agrega seu nome ao repositório
+git config --global user.email nomeUsuario@email.com // agrega seu email ao repositório
+git remote add origin https://github.com/DH/RepoRemoto // aponta um repositório remoto
+git add // adiciona todos os arquivos
+git status // mostra o estado dos arquivos
+git add // adiciona todos os arquivos
+git commit -m "mensagem" // adiciona uma mensagem nas alterações feitas
+git push origin master // envia as mudanças para o repositório remoto
+git status // rastreia o status do arquivo
+git branch <nome da branch> // Cria uma branch
+git checkout  <nome da branch> // Caminha até a Branch
+git checkout main/master // Volta para Main e Master
+git merge  <nome da branch> // Faz um Merge
