@@ -1,0 +1,3 @@
+A) Junio e Linus
+B) O GitHub foi desenvolvido por Chris Wanstrath
+C) Interface Gráfica/Navegador
