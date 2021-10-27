@@ -1,0 +1,11 @@
+1) Quem inventou o sistema de controle de versão Git e por quê?
+Por definição, o Git é um Sistema de Controle de Versão Distribuído.
+Ele foi criado por Linus Torvalds, que é mais conhecido por outra criação, o Linux. ... 
+Devido a essa funcionalidade, caso haja algum problema em uma alteração do código-fonte, 
+é possível restaurar à versão anterior de forma fácil e rápida.
+
+2) Quem atualmente é o dono do Github e por quê?
+A Microsoft foi às compras mais uma vez e levou o GitHub para casa por US$ 7,5 bilhões; 
+
+3) Existe outra maneira, além do terminal, de trabalhar com o Github?
+Sim, diretamente pelo site ou aplicativo.
