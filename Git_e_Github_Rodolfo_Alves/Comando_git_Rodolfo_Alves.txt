@@ -1,0 +1,17 @@
+git init
+git clone git@github.com:hugopinheirohps/T14_Intro_Info.git
+mkdir Git_e_Github_Rodolfo_Alves
+touch Git_e_Github_Rodolfo_Alves/Historia_Git_Rodolfo_Alves.txt
+cat Git_e_Github_Rodolfo_Alves/Historia_Git_Rodolfo_Alves.txt
+git add .[A[A[A[A[A[B[B[B[B[B
+git commit -m ''[DRodolfo Alves[C[D'[A[A[A[A[A[A[A[B[B[A[A[B[A[A[B[B[B[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[B[B[D[D[D[D[D[D[D[D[D[D[D[D[B[A
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+gi[2~[D[D[Dmk[B[B[B[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[Cgit branch Rodolfo_Alves[D[D[D[D[D[D[D[D[D[D[D[Dswitch -c Rodolfo/-_Alves
+git add .
+git commit -m ''[DRodolfo Alves[C'[D[D[[[C'
+git log
+git push oring Rodolfo_Alves
+git checkout main
+git pull
+git merge
+git push origin main
