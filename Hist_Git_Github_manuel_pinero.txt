@@ -1,0 +1,16 @@
+Esse é um arquivo de teste criado por Manuel Piñero para testar as branch do GitHub 
+
+para conhecer mais acesse no perfil do usuario -----> https://github.com/manueljpg
+
+-Quem inventou o sistema de controle de versão Git e por quê?
+R: Linus Torvalds invented Git 15 years ago in order to continue development
+ of the Linux kernel. The original team could no longer use BitKeeper. 
+ At the time, no other Source Control Management (SCMs) met their specific requirements for a distributed system.
+
+-Quem atualmente é o dono do Github e por quê?
+R: Git has remained an open-source tool since it was first released in 2005. 
+o this day, it is maintained by the Linux Foundation as part of the open-source ecosystem of tools and technologies 
+(the Linux founder also created Git). By contrast, GitHub was launched as a company in 2008 and acquired by Microsoft in 2018.
+
+- Existe outra maneira, além do terminal, de trabalhar com o Github?
+R: Sim, no VSCode e usando SourceTree
