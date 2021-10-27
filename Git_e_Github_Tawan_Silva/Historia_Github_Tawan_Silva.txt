@@ -1,0 +1,9 @@
+Quem inventou o sistema de controle de versão Git e por quê?
+R:O Git é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux. ... Além de ser distribuído, o Git foi projetado com desempenho, segurança e flexibilidade em mente.
+
+Quem atualmente é o dono do Github e por quê?
+R: A Microsoft anunciou nesta segunda-feira (4) a compra do GitHub por US$ 7,5 bilhões em ações. Isso já era dado como certo após uma reportagem da Bloomberg. “Os desenvolvedores estão construindo uma nova era, escrevendo o código do mundo. E o GitHub é o lar deles”, escreve o CEO Satya Nadella.
+
+Existe outra maneira, além do terminal, de trabalhar com o Github?
+R: A resposta deve ter aqui => https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/ 
+
