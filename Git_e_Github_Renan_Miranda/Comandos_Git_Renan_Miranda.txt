@@ -1,0 +1,9 @@
+git clone -> Clonar um repositorio
+
+cd -> Adentrar nos repositorios
+
+touch -> criar um novo arquivo
+
+git add . -> adicionar todos os arquivos alterados
+
+git commit -> comitar as alterações feitas nos arquivos
