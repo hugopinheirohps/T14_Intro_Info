@@ -1,0 +1,9 @@
+git init -> cria um repositório local
+git clone ansidnads@asndo.com -> cloca um repositório existente
+git branch nome_branch -> cria uma branch com o nome que deu
+git add nome_arquivo -> adiciona o arquivo escrito na área pra enviar pro github
+git add . -> adiciona todos os arquivos na área pra enviar pro github
+git commit -m "asdasd" -> da um commit com uma mensagem
+git push -> envia os arquivos ja commitados para o github
+git pull -> atualiza a pasta clonada (por exemplo) com as novas alterações dos usuarios
+ 
