@@ -1,0 +1,5 @@
+a. O sistema de controle de versões Git foi criado por Linus Torvalds, também criador do kernel Linux. Ele o fez após a equipe de desenvolvimento do Linux ficar insatisfeita com o BitKeeper, que é um software proprietário.
+
+b. Github foi lançado em 2008, desenvolvido por Tom Preston-Werner, Chris Wanstrath, P. J. Hyett e Scott Chacon, utilizado para o versionamento de diversos projetos open-source. A Microsoft virou uma usuária muito ativa da plataforma a partir de 2012, com diversos projetos. Em 2018, a Microsoft adquiriu o Github por 7.5 bilhões de dólares.
+
+c. Sim, através de interfaces visuais no próprio VSCode, ou em programas como GitKraken.
