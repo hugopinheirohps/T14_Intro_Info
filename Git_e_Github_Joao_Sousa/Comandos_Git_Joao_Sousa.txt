@@ -1,0 +1,14 @@
+Clona um repositorio remoto em um servidor local
+
+$ git clone [endereço do repositorio]
+
+Inicializa um repositorio local
+
+$ git init - Inicializa um repositorio local
+
+cria uma branch
+
+$ git branch nome_branch
+
+muda para uma determinada branch
+$ git checkout nome_branch

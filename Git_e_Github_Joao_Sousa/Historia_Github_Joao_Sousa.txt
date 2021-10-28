@@ -1,0 +1,15 @@
+Quem inventou o sistema de controle de versão Git e por quê?
+
+O Git foi inicialmente projetado e desenvolvido por Linus Torvalds 
+para o desenvolvimento do kernel Linux, mas foi adotado por muitos outros
+projetos.
+
+Quem atualmente é o dono do Github e por quê?
+
+Buscando reforçar a sua percepção de parceira de projetos de tecnologia aberta,
+a Microsoft finalizou os termos de aquisição da plataforma de repositórios 
+open source online GitHub pelo valor de US$ 7,5 bilhões.
+
+Existe outra maneira, além do terminal, de trabalhar com o Github?
+
+Também é possivel utilizar o Github elo site e pelo Github desktop
