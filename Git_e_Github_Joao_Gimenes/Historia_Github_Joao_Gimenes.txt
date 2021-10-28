@@ -1,15 +1,9 @@
-Questão 1 - 
 Como muitas coisas na vida, o Git começou com um pouco de destruição criativa e uma ardente controvérsia.
 
 O núcleo (kernel) do Linux é um projeto de código aberto com um escopo bastante grande. A maior parte da vida da manutenção do núcleo o Linux (1991-2002), as mudanças no código eram compartilhadas como correções e arquivos. Em 2002, o projeto do núcleo do Linux começou usar uma DVCS proprietária chamada BitKeeper.
 
 Em 2005, a relação entre a comunidade que desenvolveu o núcleo do Linux e a empresa que desenvolveu BitKeeper quebrou em pedaços, e a ferramenta passou a ser paga. Isto alertou a comunidade que desenvolvia o Linux (e especialmente Linux Torvalds, o criador do Linux) a desenvolver a sua própria ferramenta baseada em lições aprendidas ao usar o BitKeeper.
-Segunda linha
 
-Questão 2 - 
-Em 4 de junho de 2018, a Microsoft anunciou a compra da plataforma por US$ 7,5 bilhões, equivalente a R$ 27,225 bilhões com dólar cotado a R$ 3,63 no dia 06/06/2018. Satya Nadella, diretor executivo da Microsoft, reafirma a nova postura da Microsoft frente ao código aberto, dizendo: "A Microsoft é uma empresa que desenvolve em primeiro plano e, ao unir forças com o GitHub, fortalecemos nosso compromisso com a liberdade, a abertura e a inovação dos desenvolvedores. Reconhecemos a responsabilidade da comunidade que assumimos com este acordo e faremos o nosso melhor trabalho para capacitar cada desenvolvedor a construir, inovar e resolver os desafios mais prementes do mundo
+[A[A[A[A[A[A[A[A[A
 
-
-Questão 3 -
-Sim através do desktop.
-
+[A[A
