@@ -1,0 +1,10 @@
+clonar: git clone url...
+adicionar arquivo para comitar: git add .
+realizar commit: git commit -m "texto"
+criar branch: git branch nome_da_branch
+alterar branch: git checkout nome_da_branch
+enviar arquivos para o github: git push
+atualizar arquivos no servidor local: git pull
+mudar de pasta: cd .. ou cd pasta1
+criar diretório: mkdir
+criar arquivo: touch arquivo.txt
